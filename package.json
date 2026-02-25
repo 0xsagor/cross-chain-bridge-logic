@@ -1,0 +1,10 @@
+{
+  "name": "cross-chain-bridge-logic",
+  "version": "1.0.0",
+  "description": "Smart contract logic for cross-chain ERC-20 token bridging",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
